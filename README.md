@@ -9,7 +9,7 @@ Monopoly is a board game that can be played with 2 to 8 people. The game passes 
 * Veli Can Mert
 
 # Extra Features:
-*
+* Tutorial for new players
 *
 *
 
