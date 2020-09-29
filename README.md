@@ -11,5 +11,5 @@ Monopoly is a board game that can be played with 2 to 8 people. The game passes 
 # Extra Features:
 * Tutorial for new players
 * Changeable themes
-*
+* A new mechanic: We will put 2 boards in the game and there will be a bridge between them which cost a tax and it will affect systems of the game.
 
